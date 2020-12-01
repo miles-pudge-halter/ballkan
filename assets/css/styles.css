@@ -27,6 +27,11 @@
     border-radius: 1px;
     opacity: 1;
 }
+
+header {
+    min-height: 820px;
+}
+
 @media(min-width: 1366px) {
     header {
         background-image: url("../white.png");
